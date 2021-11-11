@@ -29,7 +29,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![image] (https://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=10&url=http%3A%2F%2F127.0.0.1%3A5500%2FPractice-Mockups-Skills%2F3-column-preview-card.html)
+![image] chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=10&url=http%3A%2F%2F127.0.0.1%3A5500%2FPractice-Mockups-Skills%2F3-column-preview-card.html)
 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
